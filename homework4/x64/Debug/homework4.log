@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Bravo 17\source\repos\homework4\main.cpp(53,22): warning C4566: 유니버설 문자 이름 '\u2697'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\Bravo 17\source\repos\homework4\main.cpp(53,22): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  homework4.vcxproj -> C:\Users\Bravo 17\source\repos\homework4\x64\Debug\homework4.exe
